@@ -1,7 +1,9 @@
 <div align="center">
+  
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=7fffd4&size=25&lines=AVENGER+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+marvankp1)](https://bit.ly/3lC8I7t)
+  <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER" target="blank"><img align="center" src="Marvankp.jpg" height="300" width="450" /></a>
 
-<a href="https://bit.ly/3lC8I7t"><img src="https://www.linkpicture.com/q/LPic614d2ed1210cf676708793.png" alt="google-font" border="0"></a>
-
+</p>
   # <u> SETUP <u>
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@marvankp1/AVENGER-QR)
