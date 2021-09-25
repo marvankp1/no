@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```Onnum avasaanichittilla !!!```\n\n```Type``` *.assist* ```for commands```\n\n```💥𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊💥```"
+            "value": "\n ```Onnum avasaanichittilla !!!```\n\n```Type``` *.assist* ```for commands```\n\n```👑𝐑𝐀𝐆𝐀𝐍𝐎𝐑𝐊👑```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
