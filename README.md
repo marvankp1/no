@@ -28,14 +28,14 @@
 </p>
   
   <p align="center">
-<a href="#"><img title="AVENGER" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="AVENGER" src="https://img.shields.io/badge/AVENGER-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/marvankp1"><img title="Author" src="https://img.shields.io/badge/Author-https://github.com/marvankp/pikachu?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/marvankp1"><img title="Author" src="https://img.shields.io/badge/Author-https://github.com/marvankp1/AVENGER?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/souravkl11">souravkl11</a> to make it public
+Project created by <a href="https://github.com/marvankp1">marvankp1</a> to make it public
     <br>
        | © |
         Reserved |
@@ -45,17 +45,17 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/souravkl11/Raganork">
-    <img src="https://img.shields.io/github/repo-size/souravkl11/Raganork?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/marvankp1/AVENGER">
+    <img src="https://img.shields.io/github/repo-size/marvankp1/AVENGER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/souravkl11/followers"><img title="Followers" src="https://img.shields.io/github/followers/souravkl11?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/souravkl11/Raganork/network/members"><img title="Forks" src="https://img.shields.io/github/forks/souravkl11/Raganork?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/marvankp1/followers"><img title="Followers" src="https://img.shields.io/github/followers/marvankp1?color=f7df1e&style=flat-square"></a>
+<a href="httsp://github.com/marvankp1/AVENGER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/marvankp1/AVENGER?color=f7df1e&style=flat-square"></a>
+<a href="httsp://github.com/marvankp1/AVENGER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/marvankp1/AVENGER?color=f7df1e&style=flat-square"></a>
 
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/sourav-mp4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/marvan871" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -84,9 +84,9 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
   Step 3: Turn on worker
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@marvankp1/AVENGER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@marvankp1/AVENGER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
      <div align="left">
 <br>
 <br >
@@ -107,15 +107,15 @@ Raganork സ്ഥാപിക്കുന്നതിലൂടെ, നിങ്
 ## Number ban ആവുന്നതിന്റെ കാരണം?
 
 <div align="center">
-  <img border-radius: 15px src="IMG-20210922-WA1170.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="Marvankp.jpg" width="200" height="200"/>
   <p align="center">
 
 ## Developers
   <div align="center">
     
-  [![souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![marvankp1](https://github.com/marvankp1.png?size=100)](https://github.com/marvankp1) 
 ----|
-   [Sourav Kalathingal](https://github.com/souravkl11) 
+   [MARVAN KP](https://github.com/marvankp1) 
 Base, Bug Fixes, Modules
   </div>
    
