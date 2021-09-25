@@ -24,14 +24,14 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=AVENGER+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+marvankp1)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="" height="400" width="450" /></a>
+  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="AVENGER.jpg" height="400" width="450" /></a>
 </p>
   
   <p align="center">
-<a href="#"><img title="Raganork" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
+<a href="#"><img title="AVENGER" src="https://img.shields.io/badge/Raganork-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/souravkl11"><img title="Author" src="https://img.shields.io/badge/Author-souravkl11-raganork/Raganork?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/marvankp1"><img title="Author" src="https://img.shields.io/badge/Author-https://github.com/marvankp/pikachu?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
