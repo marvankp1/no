@@ -1,6 +1,6 @@
 {
-    "name": "Raganork WA BOT",
-    "description": "Raganork bot - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "name": "AVENGER WA BOT",
+    "description": "AVENGER bot - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://github.com/souravkl11/Raganork/raw/master/raga.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/Raganork",
@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "AVENGER_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
