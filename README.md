@@ -6,7 +6,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@marvankp1/AVENGER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
      
 <a href="https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
   
@@ -84,7 +84,7 @@ Project created by <a href="https://github.com/souravkl11">souravkl11</a> to mak
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@marvankp1/AVENGER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://bit.ly/3hrN7gU)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
      <div align="left">
 <br>
 <br >
