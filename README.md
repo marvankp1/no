@@ -6,9 +6,9 @@
 </p>
   # <u> SETUP <u>
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@marvankp1/AVENGER-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@marvankp1/AVENGER-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
      
 <a href="https://chat.whatsapp.com/ClnLdmPpRh1BjtAY86njhN"><img src="https://www.linkpicture.com/q/LPic614d2f8eed9fe797753793.png" alt="Join our group" height="25" width="500" border="0"></a>
   
@@ -21,10 +21,10 @@
 
 <div align="center">
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=Raganork+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+SouravKL11)](https://bit.ly/3lC8I7t)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times&color=F7001E&size=25&lines=AVENGER+Whatsapp+Bot;With+Tons+of+features;Complete+Malayalam+content;Best+Bgm+Bot;Edited+from+WhatsAsena;Made+By+marvankp1)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Ffarhan-dqz%2FJulie-Mwol&template=https%3A%2F%2Fgithub.com%2Fmarvankp1%2FAVENGER)
 
 
-  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="NL.png" height="400" width="450" /></a>
+  <a href="https://youtu.be/iRLphwWvxrs" target="blank"><img align="center" src="" height="400" width="450" /></a>
 </p>
   
   <p align="center">
