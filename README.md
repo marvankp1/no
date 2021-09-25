@@ -31,7 +31,7 @@
 <a href="#"><img title="AVENGER" src="https://img.shields.io/badge/AVENGER-green?colorA=ff0000&colorB=ff0000&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/marvankp1"><img title="Author" src="https://img.shields.io/badge/Author-https://github.com/marvankp1/AVENGER?color=000000&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/marvankp1"><img title="Author" src="https://img.shields.io/badge/Author-marvankp1-AVENGER?color=000000&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
